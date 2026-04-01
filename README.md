@@ -1,5 +1,8 @@
 # 📘 Multi-Armed Bandit Exploration Strategies
 
+**Name:** Sanad Naqvi
+**Roll No:** 221A023
+
 ## 🎯 Aim
 To implement and compare different exploration strategies—specifically **Epsilon-Greedy** and **UCB1 (Upper Confidence Bound)**—in solving the Multi-Armed Bandit problem using reinforcement learning techniques.
 
